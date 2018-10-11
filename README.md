@@ -21,7 +21,7 @@ Machine Learning has changed the way businesses operate, and to truly get the be
 
 In this session for developers and data scientists, we will walk through a simple, but non-trivial, example of building a cloud-native real-time application that invokes a machine learning model for predictions. We will discuss how ICP for Data can help you train models & deploy scalable scoring services as well as how the Kubernetes based platform can also host your cloud native application & ensure reliability and scale.
 
-### Stay Tuned - presentation and samples will be published after the event.
+### _Stay Tuned - presentation and samples will be published after the event._
 
 
 https://ibmaicommunity.bemyapp.com/
