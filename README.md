@@ -9,7 +9,7 @@ Visit
 http://bit.ly/2x65Rup
 
 
-[Slides](IBM_AI_CommunityDay_Oct11 charts.pptx)  from the October 11th Conference
+[Slides](./IBM_AI_CommunityDay_Oct11 charts.pptx)  from the October 11th Conference
 
 
 
